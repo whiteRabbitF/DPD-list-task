@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Иван",
+      "surname": "Иванов",
+      "patronymic": "Иванович",
+      "position": "Разработчик",
+      "phone": "+7 900 123-45-67",
+      "email": "ivanov@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Петр",
+      "surname": "Петров",
+      "patronymic": "Петрович",
+      "position": "Дизайнер",
+      "phone": "+7 900 765-43-21",
+      "email": "petrov@example.com"
+    },
+    {
+      "id": "5205",
+      "name": "Зульфия",
+      "surname": "Абдулаева",
+      "patronymic": "Абдусамедовна",
+      "position": "фронтенд разработчик",
+      "phone": "+7 989-451-12-56",
+      "email": "zulyash123@gmail.com"
+    },
+    {
+      "id": "4fc7",
+      "name": "Дмитрий",
+      "surname": "Иванов",
+      "patronymic": "Дмитриевич",
+      "position": "системный администратор",
+      "phone": "+7989 444-22-55",
+      "email": "dmitri@example.com"
+    }
+  ]
+}
