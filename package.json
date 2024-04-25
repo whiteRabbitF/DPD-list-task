@@ -1,5 +1,5 @@
 {
-  "name": "smartpoint-test-task",
+  "name": "DPD-task",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vuepic/vue-datepicker": "^8.5.0",
     "ant-design-vue": "^4.1.2",
     "axios": "^1.6.8",
     "cors": "^2.8.5",
     "express": "^4.19.2",
+    "pinia": "^2.1.7",
     "vue": "^3.4.21",
     "vue-router": "4",
     "vue-the-mask": "^0.11.1"
@@ -21,6 +23,7 @@
     "@vitejs/plugin-vue": "^5.0.4",
     "sass": "^1.75.0",
     "sass-loader": "^14.2.1",
+    "typescript": "^5.4.5",
     "vite": "^5.2.0"
   },
   "description": "This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.",

@@ -23,7 +23,7 @@ body {
   color: #242424;
   font-family: "Comfortaa", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 

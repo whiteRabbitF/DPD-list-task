@@ -1,15 +1,14 @@
 import { createApp } from 'vue';
 import App from './App.vue';
 import router from './/router/router.js';
+import { createPinia } from 'pinia';
 import './style.css'
-import Antd from 'ant-design-vue';
-//import 'ant-design-vue/dist/antd.css';
+//import Antd from 'ant-design-vue';
 
 
 const app = createApp(App);
-app.use(router);     // Подключение Vue Router
-app.use(Antd);       // Подключение Ant Design Vue
-
+app.use(router);
+app.use(createPinia());
 app.mount('#app');
 
 
